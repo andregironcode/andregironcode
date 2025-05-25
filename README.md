@@ -81,7 +81,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andregironcode&theme=nightowl&hide_border=false" alt="andregironcode streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andregironcode&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
